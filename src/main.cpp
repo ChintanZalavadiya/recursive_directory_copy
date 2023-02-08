@@ -6,7 +6,7 @@ namespace fs = filesystem;
 int main(int argc, char **argv)
 {
    // Command line argument Count should be >= 3       
-   //  ex - ./a.out srcdirpath desdirpath
+   // ex - ./a.out srcdirpath desdirpath
       
     if ( argc >= 3)
     {
