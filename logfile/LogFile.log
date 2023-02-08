@@ -1,0 +1,13 @@
+Wed Feb  8 21:09:23 2023  Info  copy successful
+Wed Feb  8 21:09:40 2023  Info  copy successful
+Wed Feb  8 21:11:54 2023  Info  copy successful
+Wed Feb  8 21:12:33 2023  Info  copy successful
+Wed Feb  8 21:14:39 2023  Info  copy successful
+Wed Feb  8 21:48:02 2023  Info  copy successful
+Wed Feb  8 21:52:56 2023  Error  filesystem error: cannot copy: No such file or directory [/home/chintan/Downloads/cals] [/home/chintan/Downloads/A]
+Wed Feb  8 21:53:11 2023  Error  filesystem error: cannot copy: No such file or directory [/home/chintan/Downloads/cals] [/home/chintan/Downloads/A]
+Wed Feb  8 22:04:46 2023  Error  filesystem error: cannot copy: No such file or directory [/home/chintan/Downloads/cals] [/home/chintan/Downloads/A]
+Wed Feb  8 22:13:01 2023  Info  copy successful
+Wed Feb  8 22:34:32 2023  Info  copy successful
+Wed Feb  8 22:40:52 2023  Info  copy successful
+Wed Feb  8 22:42:46 2023  Info  copy successful
